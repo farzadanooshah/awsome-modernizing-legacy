@@ -1,6 +1,9 @@
 # awsome-modernizing-legacy
 A curated list of awesome resources talking about modernizing legacy applications
 
+## Contributing
+Contributions are always welcome!
+
 ## Contents
 - [Culture](#culture)
 - [Books](#books)

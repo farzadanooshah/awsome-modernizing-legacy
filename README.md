@@ -20,6 +20,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Editors
 - [Vim and Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+- [Debugging with Vim (DBGP client)](https://github.com/joonty/vdebug)
 
 ### Modernizing Legacy Code
 - [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)

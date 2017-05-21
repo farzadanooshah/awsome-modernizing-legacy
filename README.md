@@ -8,6 +8,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ## Contents
 - [Bash Scripting](#bash-scripting)
 - [Cloud Platforms](#cloud-platforms)
+- [CI/CD](#ci-cd)
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
@@ -19,6 +20,10 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### Cloud Platforms
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 
+### CI/CD
+#### Tools
+- [Jenkins](https://jenkins.io)
+
 ### Documentation
 - [Lightweight and text-based record of your terminal sessions](https://asciinema.org)
 
@@ -28,6 +33,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Modernizing Legacy Code
 - [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)
+- [Strangler Application by Martin Fowler](https://www.martinfowler.com/bliki/StranglerApplication.html)
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)

@@ -8,7 +8,6 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ## Contents
 - [Bash Scripting](#bash-scripting)
 - [Cloud Platforms](#cloud-platforms)
-- [CI/CD](#ci-cd)
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
@@ -19,10 +18,6 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Cloud Platforms
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
-
-### CI/CD
-#### Tools
-- [Jenkins](https://jenkins.io)
 
 ### Documentation
 - [Lightweight and text-based record of your terminal sessions](https://asciinema.org)

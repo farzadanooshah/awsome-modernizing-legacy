@@ -20,6 +20,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 
 ### Documentation
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lightweight and text-based record of your terminal sessions](https://asciinema.org)
 
 ### Editors

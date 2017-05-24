@@ -11,6 +11,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
+- [Monitoring](#monitoring)
 - [System Design and Architecture](#system-design-and-architecture)
 
 ### Bash Scripting
@@ -30,6 +31,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### Modernizing Legacy Code
 - [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)
 - [Strangler Application by Martin Fowler](https://www.martinfowler.com/bliki/StranglerApplication.html)
+
+### Monitoring
+- [An introduction to tracking statistics with graphite, statsd, and collectd](https://www.digitalocean.com/community/tutorials/an-introduction-to-tracking-statistics-with-graphite-statsd-and-collectd)
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)

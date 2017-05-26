@@ -17,6 +17,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Bash Scripting
 - [Bash Best Practices](http://kvz.io/blog/2013/11/21/bash-best-practices)
+- [Command-line JSON parser](https://stedolan.github.io/jq/)
 - [Parameter expansion in Bash](http://wiki.bash-hackers.org/syntax/pe)
 
 ### Cloud Platforms

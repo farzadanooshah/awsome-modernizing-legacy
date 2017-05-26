@@ -13,6 +13,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
 - [System Design and Architecture](#system-design-and-architecture)
+- [Template Engine](#template-engine)
 
 ### Bash Scripting
 - [Bash Best Practices](http://kvz.io/blog/2013/11/21/bash-best-practices)
@@ -38,3 +39,5 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)
 
+### Template Engine
+- [Render jinja2 templates on the command line with shell environment variables](https://github.com/andreasjansson/envtpl)

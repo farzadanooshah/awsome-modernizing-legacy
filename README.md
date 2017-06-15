@@ -12,6 +12,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
+- [Programming Languages](#programming-languages)
 - [System Design and Architecture](#system-design-and-architecture)
 - [Template Engine](#template-engine)
 

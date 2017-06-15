@@ -38,6 +38,10 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### Monitoring
 - [An introduction to tracking statistics with graphite, statsd, and collectd](https://www.digitalocean.com/community/tutorials/an-introduction-to-tracking-statistics-with-graphite-statsd-and-collectd)
 
+### Programming Languages
+#### PHP
+- [PHP The Right Way](http://www.phptherightway.com)
+
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)
 

@@ -41,6 +41,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Programming Languages
 #### PHP
+- [PHP Accepted PSRs](https://github.com/php-fig/fig-standards/tree/master/accepted)
 - [PHP The Right Way](http://www.phptherightway.com)
 
 ### System Design and Architecture

@@ -7,6 +7,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ## Contents
 - [Bash Scripting](#bash-scripting)
+- [Source Control](#source-control)
 - [Cloud Platforms](#cloud-platforms)
 - [Documentation](#documentation)
 - [Editors](#editors)
@@ -20,6 +21,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Bash Best Practices](http://kvz.io/blog/2013/11/21/bash-best-practices)
 - [Command-line JSON parser](https://stedolan.github.io/jq/)
 - [Parameter expansion in Bash](http://wiki.bash-hackers.org/syntax/pe)
+
+### Source Control
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ### Cloud Platforms
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)

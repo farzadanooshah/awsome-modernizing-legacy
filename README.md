@@ -1,5 +1,5 @@
 # Farzad resource list
-A curated list of resources on computer engineering that helped me in my on-going journey!
+A curated list of resources that helped me in my on-going journey as a computer engineer!
 
 ## Contributing
 Any suggestion is appreciated as I can't wait to learn new things. Just note that, I only list resources that I have at least read through partly and feel they are worth spreading from my own point of view.
@@ -15,6 +15,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Monitoring](#monitoring)
 - [Programming Languages](#programming-languages)
 - [System Design and Architecture](#system-design-and-architecture)
+- [Test](#test)
 - [Template Engine](#template-engine)
 
 ### Bash Scripting
@@ -52,6 +53,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)
+
+### Test
+- [In need for different HTTP status codes](http://httpstat.us/)
 
 ### Template Engine
 - [Render jinja2 templates on the command line with shell environment variables](https://github.com/andreasjansson/envtpl)

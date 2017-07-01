@@ -50,6 +50,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [PHP Accepted PSRs](https://github.com/php-fig/fig-standards/tree/master/accepted)
 - [PHP CodeSniffer: detect/fix violations of a defined coding standard](https://github.com/squizlabs/PHP_CodeSniffer)
 - [PHP The Right Way](http://www.phptherightway.com)
+- [PHPUnit testing framework](https://phpunit.de/)
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)

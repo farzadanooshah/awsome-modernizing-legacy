@@ -52,6 +52,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [PHP The Right Way](http://www.phptherightway.com)
 - [PHPUnit testing framework](https://phpunit.de/)
 
+#### Python
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)
 

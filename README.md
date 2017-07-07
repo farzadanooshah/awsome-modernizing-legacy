@@ -12,6 +12,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
+- [Peopleware](#peopleware)
 - [Programming Languages](#programming-languages)
 - [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
@@ -40,6 +41,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Monitoring
 - [An introduction to tracking statistics with graphite, statsd, and collectd](https://www.digitalocean.com/community/tutorials/an-introduction-to-tracking-statistics-with-graphite-statsd-and-collectd)
+
+### Peopleware
+- [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
 ### Programming Languages
 #### PHP

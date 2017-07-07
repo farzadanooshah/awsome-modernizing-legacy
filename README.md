@@ -7,13 +7,13 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ## Contents
 - [Bash Scripting](#bash-scripting)
-- [Source Control](#source-control)
 - [Cloud Platforms](#cloud-platforms)
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
 - [Programming Languages](#programming-languages)
+- [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
 - [Test](#test)
 - [Template Engine](#template-engine)
@@ -22,10 +22,6 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Bash Best Practices](http://kvz.io/blog/2013/11/21/bash-best-practices)
 - [Command-line JSON parser](https://stedolan.github.io/jq/)
 - [Parameter expansion in Bash](http://wiki.bash-hackers.org/syntax/pe)
-
-### Source Control
-- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ### Cloud Platforms
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
@@ -55,6 +51,10 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 #### Python
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+### Source Control
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)

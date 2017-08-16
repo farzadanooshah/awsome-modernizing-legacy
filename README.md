@@ -16,6 +16,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Shell Scripting](#shell-scripting)
 - [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
+- [System/DB Administration](#system-db-administration)
 - [Test](#test)
 - [Template Engine](#template-engine)
 
@@ -63,6 +64,10 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)
+
+### System/DB Administration
+- [The rsync algorithm](https://rsync.samba.org/tech_report/)
+- [On MySQL InnoDB backup and rsync](https://dba.stackexchange.com/questions/91287/is-possible-to-backup-database-online-using-rsync)
 
 ### Test
 - [In need for different HTTP status codes](http://httpstat.us/)

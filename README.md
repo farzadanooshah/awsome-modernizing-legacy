@@ -42,6 +42,8 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
 ### Programming Languages
+#### C/C++
+- [gdbgui - Browser-based frontend to gdb (gnu debugger)](https://github.com/cs01/gdbgui)
 #### PHP
 - [Monolog - Logging for PHP](https://github.com/Seldaek/monolog)
 - [PHP Accepted PSRs](https://github.com/php-fig/fig-standards/tree/master/accepted)

@@ -28,7 +28,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Lightweight and text-based record of your terminal sessions](https://asciinema.org)
 
 ### Editors
-- [Vim Go development plugin] (https://github.com/fatih/vim-go)
+- [Vim Go development plugin](https://github.com/fatih/vim-go)
 - [Vim and Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 - [Debugging with Vim (DBGP client)](https://github.com/joonty/vdebug)
 

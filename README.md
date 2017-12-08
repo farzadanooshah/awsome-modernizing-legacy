@@ -13,6 +13,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Monitoring](#monitoring)
 - [Peopleware](#peopleware)
 - [Programming Languages](#programming-languages)
+- [Project/Code Management](#project-code-management)
 - [Shell Scripting](#shell-scripting)
 - [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
@@ -41,6 +42,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Peopleware
 - [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+
+### Project/Code Management
+- [Sane GitHub Labels](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
 
 ### Programming Languages
 #### C/C++

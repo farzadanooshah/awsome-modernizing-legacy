@@ -13,11 +13,11 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Monitoring](#monitoring)
 - [Peopleware](#peopleware)
 - [Programming Languages](#programming-languages)
-- [Project/Code Management](#project-code-management)
+- [Project/Code Management](#projectcode-management)
 - [Shell Scripting](#shell-scripting)
 - [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
-- [System/DB Administration](#system-db-administration)
+- [System/DB Administration](#systemdb-administration)
 - [Test](#test)
 - [Template Engine](#template-engine)
 

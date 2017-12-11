@@ -7,6 +7,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ## Contents
 - [Cloud Platforms](#cloud-platforms)
+- [Containers](#containers)
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
@@ -23,6 +24,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Cloud Platforms
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+
+### Containers
+- [Container isolation gone wrong](https://sysdig.com/blog/container-isolation-gone-wrong/)
 
 ### Documentation
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

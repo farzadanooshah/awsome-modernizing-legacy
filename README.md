@@ -56,6 +56,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 #### C/C++
 - [gdbgui - Browser-based frontend to gdb (gnu debugger)](https://github.com/cs01/gdbgui)
 #### Go
+- [Advanced testing with go, by Mitchell Hashimoto](https://speakerdeck.com/mitchellh/advanced-testing-with-go)
+- [Go best practices, six years in, by Peter Bourgon](https://peter.bourgon.org/go-best-practices-2016/#top-tip-13)
+- [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 #### PHP
 - [Monolog - Logging for PHP](https://github.com/Seldaek/monolog)

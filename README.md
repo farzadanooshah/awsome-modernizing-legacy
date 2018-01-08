@@ -53,6 +53,8 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Sane GitHub Labels](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
 
 ### Programming Languages
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+
 #### C/C++
 - [gdbgui - Browser-based frontend to gdb (gnu debugger)](https://github.com/cs01/gdbgui)
 #### Go

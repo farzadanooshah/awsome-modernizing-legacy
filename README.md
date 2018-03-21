@@ -31,6 +31,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### Documentation
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lightweight and text-based record of your terminal sessions](https://asciinema.org)
+- [PlantUML Online Editor](https://www.planttext.com)
 
 ### Editors
 - [Debugging with Vim (DBGP client)](https://github.com/joonty/vdebug)

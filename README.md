@@ -13,6 +13,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
 - [Peopleware](#peopleware)
+- [Productivity](#productivity)
 - [Programming Languages](#programming-languages)
 - [Project/Code Management](#projectcode-management)
 - [Shell Scripting](#shell-scripting)
@@ -50,6 +51,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Peopleware
 - [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+
+### Productivity
+- [FrequencyReducesDifficulty by Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 
 ### Project/Code Management
 - [Sane GitHub Labels](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)

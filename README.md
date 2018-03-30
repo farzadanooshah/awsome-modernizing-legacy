@@ -91,6 +91,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### System Design and Architecture
 - [The Twelve-Factor APP](https://12factor.net)
+- [Building awesome CLI apps in Go](https://www.slideshare.net/spf13/building-awesome-cli-apps-in-go)
 
 ### System/DB Administration
 - [The rsync algorithm](https://rsync.samba.org/tech_report/)

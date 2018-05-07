@@ -91,8 +91,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Semantic Versioning](https://semver.org/)
 
 ### System Design and Architecture
-- [The Twelve-Factor APP](https://12factor.net)
 - [Building awesome CLI apps in Go](https://www.slideshare.net/spf13/building-awesome-cli-apps-in-go)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [The Twelve-Factor APP](https://12factor.net)
 
 ### System/DB Administration
 - [The rsync algorithm](https://rsync.samba.org/tech_report/)

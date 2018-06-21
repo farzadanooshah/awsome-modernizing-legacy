@@ -94,6 +94,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Building awesome CLI apps in Go](https://www.slideshare.net/spf13/building-awesome-cli-apps-in-go)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf)
+- [Linux Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 - [The Twelve-Factor APP](https://12factor.net)
 
 ### System/DB Administration

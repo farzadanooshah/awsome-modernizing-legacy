@@ -106,4 +106,5 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [In need for different HTTP status codes](http://httpstat.us/)
 
 ### Template Engine
+- [A Go template-based CLI tool.](https://github.com/hairyhenderson/gomplate)
 - [Render jinja2 templates on the command line with shell environment variables](https://github.com/andreasjansson/envtpl)

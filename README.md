@@ -88,6 +88,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Source Control
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Git tips](https://github.com/git-tips/tips)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Semantic Versioning](https://semver.org/)
 

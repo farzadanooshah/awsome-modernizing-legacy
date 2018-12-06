@@ -97,6 +97,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf)
 - [Linux Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+- [Talk from Michael Feathers on "Unconditional Code"](https://www.youtube.com/watch?v=AnZ0uTOerUI)
 - [The Twelve-Factor APP](https://12factor.net)
 
 ### System/DB Administration

@@ -95,6 +95,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### System Design and Architecture
 - [Building awesome CLI apps in Go](https://www.slideshare.net/spf13/building-awesome-cli-apps-in-go)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [Principles of Chaos Engineering](http://principlesofchaos.org/)
 - [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf)
 - [Linux Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 - [Talk from Michael Feathers on "Unconditional Code"](https://www.youtube.com/watch?v=AnZ0uTOerUI)

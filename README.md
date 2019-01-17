@@ -1,4 +1,4 @@
-# Farzad resource list
+# Farzad's resource list
 A curated list of resources that helped me in my on-going journey as a computer engineer!
 
 ## Contributing

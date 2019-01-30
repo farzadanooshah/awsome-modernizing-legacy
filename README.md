@@ -8,6 +8,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ## Contents
 - [Cloud Platforms](#cloud-platforms)
 - [Containers](#containers)
+- [Development Practices](#development-practices)
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
@@ -28,6 +29,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Containers
 - [Container isolation gone wrong](https://sysdig.com/blog/container-isolation-gone-wrong/)
+
+### Development Practices
+- [Debuggers are a wasteful Timesink](https://www.artima.com/weblogs/viewpost.jsp?thread=23476)
 
 ### Documentation
 - [Backus-Naur Form](http://matt.might.net/articles/grammars-bnf-ebnf/)

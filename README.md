@@ -10,13 +10,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Containers](#containers)
 - [Development Practices](#development-practices)
 - [Documentation](#documentation)
-- [Editors](#editors)
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
-- [Peopleware](#peopleware)
-- [Productivity](#productivity)
 - [Programming Languages](#programming-languages)
-- [Project/Code Management](#projectcode-management)
 - [Shell Scripting](#shell-scripting)
 - [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
@@ -32,19 +28,12 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 ### Development Practices
 - [Debuggers are a wasteful Timesink](https://www.artima.com/weblogs/viewpost.jsp?thread=23476)
+- [FrequencyReducesDifficulty by Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 
 ### Documentation
 - [Backus-Naur Form](http://matt.might.net/articles/grammars-bnf-ebnf/)
-- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Lightweight and text-based record of your terminal sessions](https://asciinema.org)
 - [PlantUML Online Editor](https://www.planttext.com)
-
-### Editors
-- [Debugging with Vim (DBGP client)](https://github.com/joonty/vdebug)
-- [Neovim](https://neovim.io)
-- [Vim Go development plugin](https://github.com/fatih/vim-go)
-- [Vim and Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
-- [Vim-plug: A minimalist Vim plugin manager](https://github.com/junegunn/vim-plug)
 
 ### Modernizing Legacy Code
 - [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf)
@@ -54,25 +43,15 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [An introduction to tracking statistics with graphite, statsd, and collectd](https://www.digitalocean.com/community/tutorials/an-introduction-to-tracking-statistics-with-graphite-statsd-and-collectd)
 - [Better understanding SLA numbers](http://www.slatools.com/)
 
-### Peopleware
-- [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
-
-### Productivity
-- [FrequencyReducesDifficulty by Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
-
-### Project/Code Management
-- [Sane GitHub Labels](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
-
 ### Programming Languages
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
-#### C/C++
-- [gdbgui - Browser-based frontend to gdb (gnu debugger)](https://github.com/cs01/gdbgui)
 #### Go
 - [Advanced testing with go, by Mitchell Hashimoto](https://speakerdeck.com/mitchellh/advanced-testing-with-go)
 - [Go best practices, six years in, by Peter Bourgon](https://peter.bourgon.org/go-best-practices-2016/#top-tip-13)
 - [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
 #### PHP
 - [Monolog - Logging for PHP](https://github.com/Seldaek/monolog)
 - [PHP Accepted PSRs](https://github.com/php-fig/fig-standards/tree/master/accepted)

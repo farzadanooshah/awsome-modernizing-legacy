@@ -49,6 +49,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 #### Go
+- [Building awesome CLI apps in Go](https://www.slideshare.net/spf13/building-awesome-cli-apps-in-go)
 - [Advanced testing with go, by Mitchell Hashimoto](https://speakerdeck.com/mitchellh/advanced-testing-with-go)
 - [Go best practices, six years in, by Peter Bourgon](https://peter.bourgon.org/go-best-practices-2016/#top-tip-13)
 - [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments)
@@ -78,7 +79,6 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Semantic Versioning](https://semver.org/)
 
 ### System Design and Architecture
-- [Building awesome CLI apps in Go](https://www.slideshare.net/spf13/building-awesome-cli-apps-in-go)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [Principles of Chaos Engineering](http://principlesofchaos.org/)
 - [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf)

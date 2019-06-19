@@ -90,6 +90,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### System/DB Administration
 - [The rsync algorithm](https://rsync.samba.org/tech_report/)
 - [On MySQL InnoDB backup and rsync](https://dba.stackexchange.com/questions/91287/is-possible-to-backup-database-online-using-rsync)
+- [let's learn tcpdump (in comic book format!)](https://jvns.ca/tcpdump-zine.pdf)
 
 ### Test
 - [In need for different HTTP status codes](http://httpstat.us/)

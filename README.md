@@ -13,6 +13,7 @@ I recommend everyone to curate a list for his/her own and let others know about.
 - [Modernizing Legacy Code](#modernizing-legacy-code)
 - [Monitoring](#monitoring)
 - [Programming Languages](#programming-languages)
+- [Standards](#standards)
 - [Shell Scripting](#shell-scripting)
 - [Source Control](#source-control)
 - [System Design and Architecture](#system-design-and-architecture)
@@ -64,6 +65,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 
 #### Python
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+### Standards
+- [IETF Data Tracker](https://datatracker.ietf.org/)
 
 ### Shell Scripting
 - [Bash Best Practices](http://kvz.io/blog/2013/11/21/bash-best-practices)

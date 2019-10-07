@@ -30,8 +30,9 @@ I recommend everyone to curate a list for his/her own and let others know about.
 ### Development Practices
 - [Debuggers are a wasteful Timesink](https://www.artima.com/weblogs/viewpost.jsp?thread=23476)
 - [FrequencyReducesDifficulty by Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
-- [Workflows of refactoring](https://www.martinfowler.com/articles/workflowsOfRefactoring/)
 - [Feature Toggles (aka Feature Flags) By Martin Fowler](https://martinfowler.com/articles/feature-toggles.html)
+- [The law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+- [Workflows of refactoring](https://www.martinfowler.com/articles/workflowsOfRefactoring/)
 
 ### Documentation
 - [Backus-Naur Form](http://matt.might.net/articles/grammars-bnf-ebnf/)
